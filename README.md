@@ -14,7 +14,7 @@ This is a simple, command line Python application designed to help users save en
 * Core Libraries: The built-in "random" module is used for selecting tips.
 
 # Steps to Install & Run the Project 
-1. Prerequisites: Ensure you have "Python 3" installed on your operating system.
+1. Requirement: Ensure you have "Python 3" installed on your operating system.
 2. Download the Code: Save the provided source code into a single file named `energy_tip_generator.py`.
 3. Run the Application: Open your terminal or command prompt, navigate to the directory where you saved the file, and execute the following command:
    python energy_tip_generator.py
